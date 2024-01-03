@@ -1,4 +1,3 @@
 --database=sqlite3
 --skip-action-cable
 --skip-asset-pipeline
---skip-bundle
